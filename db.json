@@ -1,12 +1,24 @@
 {
   "carousel": [
     {
+      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/ifood_capa_sobremesas.jpg",
+      "alt":"sobremesas"
+    },
+    {
+      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/oct_20_ifood-capa-pizza.png",
+      "alt":"Capa Pizza"
+    },
+    {
       "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/mercado-entregagratis.png",
       "alt":"Mercado"
     },
     {
       "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/ifood_capas_rest_entrega_gratis_abr_20.png",
       "alt":"Entrega Grátis"
+    },
+    {
+      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/set_20_sushi.png",
+      "alt":"sushi"
     },
     {
       "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/20C1_abb.png",
