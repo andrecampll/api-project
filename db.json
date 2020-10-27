@@ -134,7 +134,8 @@
       "distance": 2.97,
       "start_time": 48,
       "end_time": 58,
-      "rating": 4.1
+      "rating": 4.1,
+      "price": "R$ 2.99"
     },
     {
       "id": "6",
@@ -144,7 +145,8 @@
       "distance": 1.8,
       "start_time": 36,
       "end_time": 56,
-      "rating": 4.6
+      "rating": 4.6,
+      "price": "R$ 3.99"
     },
     {
       "id": "7",
@@ -154,7 +156,8 @@
       "distance": 3.76,
       "start_time": 43,
       "end_time": 53,
-      "rating": 4.8
+      "rating": 4.8,
+      "price": "R$ 7.99"
     },
     {
       "id": "8",
@@ -164,7 +167,8 @@
       "distance": 2.74,
       "start_time": 40,
       "end_time": 50,
-      "rating": 4.5
+      "rating": 4.5,
+      "price": "R$ 4.99"
     },
     {
       "id": "9",
@@ -174,7 +178,8 @@
       "distance": 3.6,
       "start_time": 40,
       "end_time": 50,
-      "rating": 4.7
+      "rating": 4.7,
+      "price": "R$ 6.99"
     },
     {
       "id": "10",
@@ -184,7 +189,8 @@
       "distance": 5.7,
       "start_time": 30,
       "end_time": 50,
-      "rating": 4.7
+      "rating": 4.7,
+      "price": "R$ 2.99"
     },
     {
       "id": "11",
@@ -194,7 +200,19 @@
       "distance": 3.7,
       "start_time": 34,
       "end_time": 44,
-      "rating": 4.8
+      "rating": 4.8,
+      "price": "R$ 6.99"
+    },
+    {
+      "id": "12",
+      "title": "Pizza Hut",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/202008281334_5d83c34e-fad6-4278-b653-6d5798a84eca.jpg",
+      "category": "Pizza",
+      "distance": 3.1,
+      "start_time": 30,
+      "end_time": 40,
+      "rating": 4.5,
+      "price": "R$ 3.99"
     }
   ],
   "categories": [
