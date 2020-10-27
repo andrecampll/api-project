@@ -165,6 +165,36 @@
       "start_time": 40,
       "end_time": 50,
       "rating": 4.5
+    },
+    {
+      "id": "9",
+      "title": "China In Box",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/0b10e46f-fb07-4274-a74b-c3c543365933/202001031345_m4a0_i.png",
+      "category": "Chinesa",
+      "distance": 3.6,
+      "start_time": 40,
+      "end_time": 50,
+      "rating": 4.7
+    },
+    {
+      "id": "10",
+      "title": "Spoleto",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/3a9caaf4-5310-4d73-affb-7161436662ec/202005151644_iQwN_.jpeg",
+      "category": "Italiana",
+      "distance": 5.7,
+      "start_time": 30,
+      "end_time": 50,
+      "rating": 4.7
+    },
+    {
+      "id": "11",
+      "title": "Maioca",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201808101506_0838e072-e3de-4f04-bb22-6982710fb67e.png",
+      "category": "Doces & Bolos",
+      "distance": 3.7,
+      "start_time": 34,
+      "end_time": 44,
+      "rating": 4.8
     }
   ],
   "categories": [
