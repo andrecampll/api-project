@@ -106,17 +106,6 @@
     },
     {
       "id": "3",
-      "title": "Milleo Lanches",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201705232310_49a58116-6536-4a07-9abf-7b97c891c5e7.png",
-      "category": "Lanches",
-      "distance": 3.49,
-      "start_time": 20,
-      "end_time": 30,
-      "rating": 4.6,
-      "price": "R$ 5.99"
-    },
-    {
-      "id": "4",
       "title": "Domino's Pizza",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201909101956_cc4ae59c-860a-48b4-9fe2-9f3f5840ce5f.png",
       "category": "Pizza",
@@ -127,7 +116,7 @@
       "price": "R$ 5.99"
     },
     {
-      "id": "5",
+      "id": "4",
       "title": "Habbib's",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201801241023__HABIBSNAZARE.jpg",
       "category": "Lanches",
@@ -138,18 +127,7 @@
       "price": "R$ 2.99"
     },
     {
-      "id": "6",
-      "title": "Batistão Duque",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/cfa433b7-eed4-4630-998e-c599623b08b3/202003190923_3A3w_i.jpg",
-      "category": "Lanches",
-      "distance": 1.8,
-      "start_time": 36,
-      "end_time": 56,
-      "rating": 4.6,
-      "price": "R$ 3.99"
-    },
-    {
-      "id": "7",
+      "id": "5",
       "title": "Sushi Boulevard",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/c48cbb89-0ddb-48ec-83cd-25946fe8c78f/201908131950_v914_i.png",
       "category": "Japonesa",
@@ -160,7 +138,7 @@
       "price": "R$ 7.99"
     },
     {
-      "id": "8",
+      "id": "6",
       "title": "Rocky Burguer",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/dbc629b1-71e7-406c-8959-d251540157f5/202007192209_Cywt_.jpeg",
       "category": "Lanches",
@@ -171,7 +149,7 @@
       "price": "R$ 4.99"
     },
     {
-      "id": "9",
+      "id": "7",
       "title": "China In Box",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/0b10e46f-fb07-4274-a74b-c3c543365933/202001031345_m4a0_i.png",
       "category": "Chinesa",
@@ -182,7 +160,7 @@
       "price": "R$ 6.99"
     },
     {
-      "id": "10",
+      "id": "8",
       "title": "Spoleto",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/3a9caaf4-5310-4d73-affb-7161436662ec/202005151644_iQwN_.jpeg",
       "category": "Italiana",
@@ -193,18 +171,7 @@
       "price": "R$ 2.99"
     },
     {
-      "id": "11",
-      "title": "Maioca",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201808101506_0838e072-e3de-4f04-bb22-6982710fb67e.png",
-      "category": "Doces & Bolos",
-      "distance": 3.7,
-      "start_time": 34,
-      "end_time": 44,
-      "rating": 4.8,
-      "price": "R$ 6.99"
-    },
-    {
-      "id": "12",
+      "id": "9",
       "title": "Pizza Hut",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/202008281334_5d83c34e-fad6-4278-b653-6d5798a84eca.jpg",
       "category": "Pizza",
