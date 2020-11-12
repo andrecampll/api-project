@@ -242,10 +242,10 @@
   "foods": [
     {
       "id": "1",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
+      "title": "Hamburguer",
+      "description": "Hamburguer muito massa!",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/98e65427-a33c-49ce-b3fc-637b4a460e7f/202006032000_AQcJ_l.jpg",
+      "price": "R$ 25,00"
     },
     {
       "id": "2",
