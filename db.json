@@ -237,6 +237,21 @@
       "id": "13",
       "title": "Chinesa",
       "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-chinesa.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Cafeterias",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-cafeteria.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Vegetariana",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-vegetariana.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Pastel",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-pasteis.jpg"
     }
   ],
   "foods": [
